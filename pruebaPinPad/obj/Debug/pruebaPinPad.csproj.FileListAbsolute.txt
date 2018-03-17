@@ -1,0 +1,9 @@
+c:\users\pc\documents\visual studio 2013\Projects\pruebaPinPad\pruebaPinPad\bin\Debug\pruebaPinPad.exe.config
+c:\users\pc\documents\visual studio 2013\Projects\pruebaPinPad\pruebaPinPad\bin\Debug\pruebaPinPad.exe
+c:\users\pc\documents\visual studio 2013\Projects\pruebaPinPad\pruebaPinPad\bin\Debug\pruebaPinPad.pdb
+c:\users\pc\documents\visual studio 2013\Projects\pruebaPinPad\pruebaPinPad\obj\Debug\pruebaPinPad.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2013\Projects\pruebaPinPad\pruebaPinPad\obj\Debug\pruebaPinPad.Form1.resources
+c:\users\pc\documents\visual studio 2013\Projects\pruebaPinPad\pruebaPinPad\obj\Debug\pruebaPinPad.Properties.Resources.resources
+c:\users\pc\documents\visual studio 2013\Projects\pruebaPinPad\pruebaPinPad\obj\Debug\pruebaPinPad.csproj.GenerateResource.Cache
+c:\users\pc\documents\visual studio 2013\Projects\pruebaPinPad\pruebaPinPad\obj\Debug\pruebaPinPad.exe
+c:\users\pc\documents\visual studio 2013\Projects\pruebaPinPad\pruebaPinPad\obj\Debug\pruebaPinPad.pdb
